@@ -1,3 +1,5 @@
+;; ripped from 4clojure
+
 (ns org.stuff.events.api
   "Functions that interact with 4clojure API or fetch data directly."
   (:require [clojure.data.json :as json]
