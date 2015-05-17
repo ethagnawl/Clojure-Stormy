@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Clojure Stormy</string>
+  <string name="negative_dialog_button_text">Cancel</string>
+  <string name="neutral_dialog_button_text">OK</string>
+  <string name="positive_dialog_button_text">Submit</string>
+  <string name="wind_speed_label">WIND SPEED</string>
+  <string name="humidity_label">HUMIDITY</string>
+  <string name="search_status_label">Fetching forecast ...</string>
+</resources>
